@@ -7,3 +7,6 @@ Chapitre I
 La pente est glissante si je vais trop vite je risque la chute.
 
 suite du chapitre 1 je vais m'attacher a l'arbre.
+
+suite chap 1 versio 1
+    tout va bien
