@@ -10,3 +10,5 @@ Suite du chapitre 1 je vais m'attacher a l'arbre.
 
 Mac commentaire
 ....
+verif 
+
